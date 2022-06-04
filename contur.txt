@@ -1,0 +1,3 @@
+https://docs.opencv.org/master/d9/d8b/tutorial_py_contours_hierarchy.html
+
+https://docs.opencv.org/master/d1/d32/tutorial_py_contour_properties.html
